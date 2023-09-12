@@ -3,6 +3,7 @@ M.2 1216 Solder Paste Stencil by Krutav Shah
 
 This project was designed to provide a stencil for M.2 1216 form factor wireless RF and Bluetooth modules for the Steam Deck, assisting with replacing the module properly. Provided are fabrication outputs that can be uploaded to a service such as JLCPCB to have a stencil manufactured and delivered to you, as well as the original design files made in Altium Designer. To use, simply place the stencil over the wireless module, evenly spread solder paste across the surface of the stencil, and wipe away any excess. The solder paste can then be heated up accordingly and will flow to fit the shape of the pads. For the ground pads in the center, it may be better to use less solder paste to avoid a large pool in the center.
 
+![Stencil preview](/M.2_1216_Stencil.png "preview")
 
 
 ***
