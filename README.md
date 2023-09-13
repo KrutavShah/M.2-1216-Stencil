@@ -8,13 +8,15 @@ This project was designed to provide a stencil for M.2 1216 form factor wireless
 ***
 
 **Ordering Instructions**
-1. Download the "Krutav_1216_StencilForOrder.zip" file containing the Gerber files necessary to generate a stencil with the manufacturer. For this example, we will use OSH Stencils.
+1. Download the "Krutav_1216_StencilForOrder.zip" file from the "Releases" tab containing the Gerber files necessary to generate a stencil with the manufacturer. For this example, we will use OSH Stencils.
 2. Upload the .zip file to oshstencils.com.
 3. Select the file types according to the image shown when prompted:
 <img src="https://github.com/KrutavShah/M.2-1216-Stencil/blob/main/Images/FileTypes_M.2_1216_Stencil.png" width=50% height=50%>
+
 4. Click on "Generate Stencils".
 5. Select the materials as shown, and feel free to add the following engraving to the stencil:
-<img src="https://github.com/KrutavShah/M.2-1216-Stencil/blob/main/Images/OSH_M.2_1216_Stencil.png" width=50% height=50%>  
+<img src="https://github.com/KrutavShah/M.2-1216-Stencil/blob/main/Images/OSH_M.2_1216_Stencil.png" width=50% height=50%>
+
 6. You can then add the stencil to the cart and place the order.
 
 ***
